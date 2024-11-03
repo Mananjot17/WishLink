@@ -19,8 +19,6 @@ const Brand = () => {
     <Spotlight/>
     <FAQs />
     <Footer/>
-
-    <OurPartnerCards/>
     </>
   )
 }
